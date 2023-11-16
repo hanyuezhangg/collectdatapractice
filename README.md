@@ -1,5 +1,5 @@
 # Description                                                                                                                            
-This meticulously curated dataset offers a panoramic view of education on a global scale , delivering profound insights into the dynamic landscape of education across diverse countries and regions. 
+This dataset provides a comprehensive global perspective on education, offering vital insights into diverse education systems worldwide. It covers essential metrics like out-of-school rates, completion rates, proficiency levels, literacy rates, birth rates, and enrollment in primary and tertiary education.
 # Variables
 | Header                                  | Description                                                                                       | Datatype       |
 |-----------------------------------------|---------------------------------------------------------------------------------------------------|----------------|
