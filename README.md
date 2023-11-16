@@ -1,6 +1,6 @@
 # Description                                                                                                                            
 This meticulously curated dataset offers a panoramic view of education on a global scale , delivering profound insights into the dynamic landscape of education across diverse countries and regions. 
-#Variables
+# Variables
 | Header                                  | Description                                                                                       | Datatype       |
 |-----------------------------------------|---------------------------------------------------------------------------------------------------|----------------|
 | Countries and Areas                     | Name of the countries and areas.                                                                  | Text           |
