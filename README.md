@@ -32,3 +32,14 @@ This dataset provides a comprehensive global perspective on education, offering 
 | Gross_Primary_Education_Enrollment      | Gross enrollment in primary education.                                                            | Percentage     |
 | Gross_Tertiary_Education_Enrollment     | Gross enrollment in tertiary education.                                                           | Percentage     |
 | Unemployment_Rate                       | Unemployment rate in the respective countries/areas.                                              | Percentage     |
+#  information about the creator and source of the dataset
+creator：
+Colombo, Western Province, Sri Lanka，Data Scientist
+## SOURCES：
+Out of school rate - UNESCO Institute for Statistics (last updated in March 2021): Shows the percentage of children and youth not attending school.
+
+Completion rate - UNICEF Global Database (last updated in April 2021): Indicates the percentage of students successfully completing their education.
+
+Proficiency in reading and math - United Nations Statistics Division database (last updated in June 2021): Measures the percentage of students achieving minimum proficiency in reading and math at different education stages.
+
+Youth literacy rate - UNESCO Institute for Statistics (last updated in March 2021): Reflects the literacy rate among youth.
